@@ -1,0 +1,9 @@
+#banner	{
+	margin: none;
+	padding: 150px;
+	background-color: #463038;
+}
+#banner h1	{
+	color: white;
+	font-family: Elvetica;
+}
